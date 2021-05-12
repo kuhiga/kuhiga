@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kuhiga
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning mongoDB
 - 📫 How to reach me kurthigaa@gmail.com
 
 <!---
