@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuhiga
-- 👀 I’m interested in full stack development
+- 👀 I love learning about new technology and creating stuff with it. I enjoy building web applications.
 - 📫 kurthigaa@gmail.com
 
 <!---
